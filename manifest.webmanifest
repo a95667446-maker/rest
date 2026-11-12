@@ -1,7 +1,7 @@
 {
   "name": "모모네 쉼터초원",
   "short_name": "쉼터초원",
-  "description": "모모래빗과 함께하는 초록빛 마음일기와 쉼",
+  "description": "모모래빗과 함께하는 마음일기, 매일 성경말씀 읽기 연결 및 묵상·기도 (무료)",
   "lang": "ko",
   "start_url": "./index.html",
   "scope": "./",
